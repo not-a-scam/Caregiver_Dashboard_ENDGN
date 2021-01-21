@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "323780791700",
+    "firebase_url": "https://rnd-2020-76d58-default-rtdb.firebaseio.com",
+    "project_id": "rnd-2020-76d58",
+    "storage_bucket": "rnd-2020-76d58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323780791700:android:147f88f141c0af98169381",
+        "android_client_info": {
+          "package_name": "com.example.rddashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323780791700-0g829qv10jcoa3q9buopaekgmkvhac5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN5ZneyfwWcQVxocDFIUJhJ_yapo7L9BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323780791700-0g829qv10jcoa3q9buopaekgmkvhac5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

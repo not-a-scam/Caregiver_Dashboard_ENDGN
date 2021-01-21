@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">R&amp;D Dashboard</string>
+    <string-array name="names">
+        <item>Zech</item>
+        <item>Justin</item>
+        <item>Nigel</item>
+        <item>Haozhi</item>
+        <item>Alan</item>
+        <item>Matthew</item>
+        <item>Mark</item>
+        <item>Luke</item>
+        <item>Luke</item>
+        <item>Luke</item>
+        <item>Luke</item>
+        <item>Luke</item>
+
+    </string-array>
+
+    <string-array name="age">
+        <item>18</item>
+        <item>18</item>
+        <item>18</item>
+        <item>19</item>
+        <item>18</item>
+        <item>20</item>
+        <item>20</item>
+        <item>22</item>
+        <item>22</item>
+        <item>22</item>
+        <item>22</item>
+        <item>22</item>
+
+    </string-array>
+
+    <string-array name="email">
+        <item>email@email.email</item>
+        <item>email@email.email</item>
+        <item>email@email.email</item>
+        <item>email@email.email</item>
+        <item>email@email.email</item>
+        <item>email@email.email</item>
+        <item>email@email.email</item>
+        <item>email@email.email</item>
+        <item>email@email.email</item>
+        <item>email@email.email</item>
+        <item>email@email.email</item>
+        <item>email@email.email</item>
+
+    </string-array>
+</resources>
